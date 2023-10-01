@@ -20,9 +20,7 @@ A Kafka-Producer produces these above information, a Consumer consumes it and in
 ## Usage
 To run the application, follow the following steps:
 1. Start Zookeeper and Kafka   
-2. Execute the following command:
-```bash
-python main.py
+2. Execute the following command: `python main.py`
 
 ![Screenshot](screenshot/consumer.jpg)
 
