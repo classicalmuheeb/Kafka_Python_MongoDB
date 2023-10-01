@@ -1,0 +1,4 @@
+Faker
+pymongo
+kafka
+kafka-python
