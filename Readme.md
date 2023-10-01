@@ -13,7 +13,7 @@ No. 3 and 4 was inspired by [Sevdimali's article ](https://medium.datadriveninve
 A Kafka-Producer produces these above information, a Consumer consumes it and ingest it to a MongoDB collection.
 
 ## Installation
-1. Clone the repository: `git `
+1. Clone the repository: `git clone https://github.com/classicalmuheeb/Kafka_Python_MongoDB`
 2. Navigate to the project directory. 
 3. Install dependencies: `pip install -r requirements.txt`
 
@@ -24,6 +24,6 @@ To run the application, follow the following steps:
 ```bash
 python main.py
 
-![Consumer-Screenshot](screenshot/consumer.jpg)
+![Screenshot](screenshot/consumer.jpg)
 
-![Mongodb-Screenshot](screenshot/Screenshot.jpg)
+![Screenshot](screenshot/Screenshot.jpg)
